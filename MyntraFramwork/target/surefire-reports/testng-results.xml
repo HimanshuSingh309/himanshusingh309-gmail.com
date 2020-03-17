@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="11" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Myntra Framework" duration-ms="253904" started-at="2020-03-17T09:17:17Z" finished-at="2020-03-17T09:21:31Z">
+    <groups>
+    </groups>
+    <test name="Myntra Automation Test Cases" duration-ms="253904" started-at="2020-03-17T09:17:17Z" finished-at="2020-03-17T09:21:31Z">
+      <class name="com.myntra.qa.testcases.UserHomePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.myntra.qa.testcases.UserHomePageTest@7ca48474]" name="setup" is-config="true" duration-ms="15160" started-at="2020-03-17T14:49:07Z" finished-at="2020-03-17T14:49:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="userNameTest()[pri:1, instance:com.myntra.qa.testcases.UserHomePageTest@7ca48474]" name="userNameTest" duration-ms="5936" started-at="2020-03-17T14:49:23Z" finished-at="2020-03-17T14:49:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userNameTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.myntra.qa.testcases.UserHomePageTest@7ca48474]" name="closeBrowser" is-config="true" duration-ms="2334" started-at="2020-03-17T14:49:29Z" finished-at="2020-03-17T14:49:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.myntra.qa.testcases.UserHomePageTest@7ca48474]" name="setup" is-config="true" duration-ms="11381" started-at="2020-03-17T14:49:41Z" finished-at="2020-03-17T14:49:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="menTabTest()[pri:2, instance:com.myntra.qa.testcases.UserHomePageTest@7ca48474]" name="menTabTest" duration-ms="11934" started-at="2020-03-17T14:49:52Z" finished-at="2020-03-17T14:50:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menTabTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.myntra.qa.testcases.UserHomePageTest@7ca48474]" name="closeBrowser" is-config="true" duration-ms="2132" started-at="2020-03-17T14:50:04Z" finished-at="2020-03-17T14:50:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.myntra.qa.testcases.UserHomePageTest@7ca48474]" name="setup" is-config="true" duration-ms="8535" started-at="2020-03-17T14:50:19Z" finished-at="2020-03-17T14:50:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="womenTabTest()[pri:3, instance:com.myntra.qa.testcases.UserHomePageTest@7ca48474]" name="womenTabTest" duration-ms="9269" started-at="2020-03-17T14:50:28Z" finished-at="2020-03-17T14:50:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- womenTabTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.myntra.qa.testcases.UserHomePageTest@7ca48474]" name="closeBrowser" is-config="true" duration-ms="2122" started-at="2020-03-17T14:50:37Z" finished-at="2020-03-17T14:50:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.myntra.qa.testcases.UserHomePageTest@7ca48474]" name="setup" is-config="true" duration-ms="11831" started-at="2020-03-17T14:50:50Z" finished-at="2020-03-17T14:51:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="kidsTabTest()[pri:4, instance:com.myntra.qa.testcases.UserHomePageTest@7ca48474]" name="kidsTabTest" duration-ms="8609" started-at="2020-03-17T14:51:02Z" finished-at="2020-03-17T14:51:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kidsTabTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.myntra.qa.testcases.UserHomePageTest@7ca48474]" name="closeBrowser" is-config="true" duration-ms="186" started-at="2020-03-17T14:51:11Z" finished-at="2020-03-17T14:51:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.myntra.qa.testcases.UserHomePageTest@7ca48474]" name="setup" is-config="true" duration-ms="8569" started-at="2020-03-17T14:51:11Z" finished-at="2020-03-17T14:51:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="discoverTabTest()[pri:5, instance:com.myntra.qa.testcases.UserHomePageTest@7ca48474]" name="discoverTabTest" duration-ms="8821" started-at="2020-03-17T14:51:20Z" finished-at="2020-03-17T14:51:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- discoverTabTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.myntra.qa.testcases.UserHomePageTest@7ca48474]" name="closeBrowser" is-config="true" duration-ms="2395" started-at="2020-03-17T14:51:28Z" finished-at="2020-03-17T14:51:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.myntra.qa.testcases.UserHomePageTest -->
+      <class name="com.myntra.qa.testcases.MyProfilePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.myntra.qa.testcases.MyProfilePageTest@337d0578]" name="setup" is-config="true" duration-ms="47070" started-at="2020-03-17T14:47:17Z" finished-at="2020-03-17T14:48:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validateUserDetails()[pri:0, instance:com.myntra.qa.testcases.MyProfilePageTest@337d0578]" name="validateUserDetails" duration-ms="583" started-at="2020-03-17T14:48:04Z" finished-at="2020-03-17T14:48:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUserDetails -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.myntra.qa.testcases.MyProfilePageTest@337d0578]" name="closeBrowser" is-config="true" duration-ms="2635" started-at="2020-03-17T14:48:05Z" finished-at="2020-03-17T14:48:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.myntra.qa.testcases.MyProfilePageTest -->
+      <class name="com.myntra.qa.testcases.MyntraLoginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.myntra.qa.testcases.MyntraLoginPageTest@13a57a3b]" name="setup" is-config="true" duration-ms="16269" started-at="2020-03-17T14:48:07Z" finished-at="2020-03-17T14:48:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="myntraHomePageUrlTest()[pri:1, instance:com.myntra.qa.testcases.MyntraLoginPageTest@13a57a3b]" name="myntraHomePageUrlTest" duration-ms="18" started-at="2020-03-17T14:48:24Z" finished-at="2020-03-17T14:48:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myntraHomePageUrlTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.myntra.qa.testcases.MyntraLoginPageTest@13a57a3b]" name="closeBrowser" is-config="true" duration-ms="2326" started-at="2020-03-17T14:48:24Z" finished-at="2020-03-17T14:48:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.myntra.qa.testcases.MyntraLoginPageTest@13a57a3b]" name="setup" is-config="true" duration-ms="8038" started-at="2020-03-17T14:49:31Z" finished-at="2020-03-17T14:49:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="myntraHomePageTitleTest()[pri:2, instance:com.myntra.qa.testcases.MyntraLoginPageTest@13a57a3b]" name="myntraHomePageTitleTest" duration-ms="11" started-at="2020-03-17T14:49:39Z" finished-at="2020-03-17T14:49:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myntraHomePageTitleTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.myntra.qa.testcases.MyntraLoginPageTest@13a57a3b]" name="closeBrowser" is-config="true" duration-ms="2096" started-at="2020-03-17T14:49:39Z" finished-at="2020-03-17T14:49:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.myntra.qa.testcases.MyntraLoginPageTest@13a57a3b]" name="setup" is-config="true" duration-ms="5045" started-at="2020-03-17T14:50:07Z" finished-at="2020-03-17T14:50:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:3, instance:com.myntra.qa.testcases.MyntraLoginPageTest@13a57a3b]" name="loginTest" duration-ms="5458" started-at="2020-03-17T14:50:12Z" finished-at="2020-03-17T14:50:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.myntra.qa.testcases.MyntraLoginPageTest@13a57a3b]" name="closeBrowser" is-config="true" duration-ms="2331" started-at="2020-03-17T14:50:17Z" finished-at="2020-03-17T14:50:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.myntra.qa.testcases.MyntraLoginPageTest@13a57a3b]" name="setup" is-config="true" duration-ms="8833" started-at="2020-03-17T14:50:39Z" finished-at="2020-03-17T14:50:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="titleTestAfterLogin()[pri:4, instance:com.myntra.qa.testcases.MyntraLoginPageTest@13a57a3b]" name="titleTestAfterLogin" duration-ms="13" started-at="2020-03-17T14:50:48Z" finished-at="2020-03-17T14:50:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleTestAfterLogin -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.myntra.qa.testcases.MyntraLoginPageTest@13a57a3b]" name="closeBrowser" is-config="true" duration-ms="2295" started-at="2020-03-17T14:50:48Z" finished-at="2020-03-17T14:50:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.myntra.qa.testcases.MyntraLoginPageTest -->
+      <class name="com.myntra.qa.testcases.SearchFunctionPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.myntra.qa.testcases.SearchFunctionPageTest@59e84876]" name="setup" is-config="true" duration-ms="17624" started-at="2020-03-17T14:48:26Z" finished-at="2020-03-17T14:48:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="FAIL" signature="validateSearchResultTextAfterSearching()[pri:1, instance:com.myntra.qa.testcases.SearchFunctionPageTest@59e84876]" name="validateSearchResultTextAfterSearching" duration-ms="23086" started-at="2020-03-17T14:48:43Z" finished-at="2020-03-17T14:49:07Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//h1[@class='title-title']"}
+  (Session info: chrome=79.0.3945.130)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.09 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'HIMANSHU-SINGH', ip: '192.168.0.103', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:63360}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38), userDataDir=C:\Users\TEMPHI~1.002\AppData\Local\Temp\scoped_dir25696_27630}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=79.0.3945.130, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 75d4087c2f97d02969f7442ddcf9aeeb
+*** Element info: {Using=xpath, value=//h1[@class='title-title']}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[@class='title-title']"}
+  (Session info: chrome=79.0.3945.130)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.09 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'HIMANSHU-SINGH', ip: '192.168.0.103', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:63360}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38), userDataDir=C:\Users\TEMPHI~1.002\AppData\Local\Temp\scoped_dir25696_27630}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=79.0.3945.130, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 75d4087c2f97d02969f7442ddcf9aeeb
+*** Element info: {Using=xpath, value=//h1[@class='title-title']}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:449)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:357)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:59)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:37)
+	at com.sun.proxy.$Proxy5.getText(Unknown Source)
+	at com.myntra.qa.pages.SearchFunctionPage.validateSearchFunction(SearchFunctionPage.java:31)
+	at com.myntra.qa.testcases.SearchFunctionPageTest.validateSearchResultTextAfterSearching(SearchFunctionPageTest.java:34)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:645)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+	at org.testng.TestNG.runSuites(TestNG.java:1133)
+	at org.testng.TestNG.run(TestNG.java:1104)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:377)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:138)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:465)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:451)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSearchResultTextAfterSearching -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.myntra.qa.testcases.SearchFunctionPageTest@59e84876]" name="closeBrowser" is-config="true" duration-ms="139" started-at="2020-03-17T14:49:07Z" finished-at="2020-03-17T14:49:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.myntra.qa.testcases.SearchFunctionPageTest -->
+    </test> <!-- Myntra Automation Test Cases -->
+  </suite> <!-- Myntra Framework -->
+</testng-results>

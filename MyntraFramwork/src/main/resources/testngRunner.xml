@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Myntra Framework" verbose="1" >
+<!-- <listeners>
+			<listener class-name="com.qa.ExtentReport.ExtentReportListener"></listener>
+</listeners> -->
+
+  <test name="Myntra Automation Test Cases" >
+    <classes>
+    	<class name="com.myntra.qa.testcases.MyntraLoginPageTest"></class>
+    	<class name="com.myntra.qa.testcases.UserHomePageTest"></class>
+       <class name="com.myntra.qa.testcases.MyProfilePageTest"></class>
+        <class name="com.myntra.qa.testcases.SearchFunctionPageTest"></class> 
+    </classes>
+  </test>
+</suite>

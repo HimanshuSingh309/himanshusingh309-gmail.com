@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Myntra Framework]">
+  <test name="Myntra Automation Test Cases(failed)">
+    <classes>
+      <class name="com.myntra.qa.testcases.SearchFunctionPageTest">
+        <methods>
+          <include name="validateSearchResultTextAfterSearching"/>
+          <include name="setup"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- com.myntra.qa.testcases.SearchFunctionPageTest -->
+      <class name="com.myntra.qa.testcases.MyProfilePageTest">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.myntra.qa.testcases.MyProfilePageTest -->
+      <class name="com.myntra.qa.testcases.MyntraLoginPageTest">
+        <methods>
+          <include name="setup"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- com.myntra.qa.testcases.MyntraLoginPageTest -->
+      <class name="com.myntra.qa.testcases.UserHomePageTest">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.myntra.qa.testcases.UserHomePageTest -->
+    </classes>
+  </test> <!-- Myntra Automation Test Cases(failed) -->
+</suite> <!-- Failed suite [Myntra Framework] -->

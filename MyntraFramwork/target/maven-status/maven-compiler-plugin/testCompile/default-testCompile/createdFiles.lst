@@ -1,0 +1,5 @@
+com\myntra\qa\testcases\NewAddressPageTest.class
+com\myntra\qa\testcases\MyntraLoginPageTest.class
+com\myntra\qa\testcases\MyProfilePageTest.class
+com\myntra\qa\testcases\SearchFunctionPageTest.class
+com\myntra\qa\testcases\UserHomePageTest.class
